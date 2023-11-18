@@ -1,0 +1,9 @@
+@media (max-width: 880px) {
+  .popular .splide__slide {
+    margin-right: 0 !important;
+  }
+
+  .popular .splide__list {
+    gap: .5rem;
+  }
+}

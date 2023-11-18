@@ -1,0 +1,9 @@
+@media (max-width: 880px) {
+  .veggie .splide__slide {
+    margin-right: 0 !important;
+  }
+
+  .veggie .splide__list {
+    gap: .5rem;
+  }
+}
